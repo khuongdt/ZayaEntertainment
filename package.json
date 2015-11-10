@@ -1,0 +1,25 @@
+{
+  "name": "ZayaEntertainment",
+  "version": "1.0.0",
+  "description": "Entertainment Core",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khuongdt/ZayaEntertainment.git"
+  },
+  "keywords": [
+    "Zaya",
+    "Chan",
+    "Giai",
+    "Tri",
+    "Entertainment"
+  ],
+  "author": "Zaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khuongdt/ZayaEntertainment/issues"
+  }
+}
